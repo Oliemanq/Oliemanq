@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 # ...
 ### I am a current student at the University of Minnesota - Duluth for Computer Science
-### My website is [here](oliemanq.github.io) and has all of my links and such
+### My website is [here](https://oliemanq.github.io) and has all of my links and such
